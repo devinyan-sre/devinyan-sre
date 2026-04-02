@@ -119,6 +119,31 @@ spec:
 
 ###
 
+<h2 align="center">📅 3D Contribution Calendar</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-isocalendar.svg" width="98%" />
+</p>
+
+###
+
+<h2 align="center">🏅 Achievements</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-achievements.svg" width="98%" />
+</p>
+
+###
+
+<h2 align="center">💻 Languages & Habits</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-languages.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-habits.svg" width="49%" />
+</p>
+
+###
+
 <h2 align="center">📈 Activity</h2>
 
 <p align="center">
@@ -129,7 +154,13 @@ spec:
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devinyan-sre&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-activity.svg" width="49%" />
+</p>
+
 ###
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   <picture>
