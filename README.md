@@ -119,27 +119,10 @@ spec:
 
 ###
 
-<h2 align="center">📅 3D Contribution Calendar</h2>
+<h2 align="center">💻 Coding Habits</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-isocalendar.svg" width="98%" />
-</p>
-
-###
-
-<h2 align="center">🏅 Achievements</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-achievements.svg" width="98%" />
-</p>
-
-###
-
-<h2 align="center">💻 Languages & Habits</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-languages.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-habits.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/devinyan-sre/devinyan-sre/main/metrics-habits.svg" width="70%" />
 </p>
 
 ###
